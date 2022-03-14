@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Mike has been active as a web application developer and designer since the late 90s, working in the non-profit, university, retail, agricultural, and health care industries. He was a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association.
+
+Mike is the Software Development Manager for the Labnet Dental Lab Systems division of Henry Schein - a solutions company for health care professionals.
+
+🔭 Find me at https://michaelcaplan.com/
+
 <!--
 **michaelcaplan/michaelcaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
